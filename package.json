@@ -3,7 +3,7 @@
     "description": "w3w-qa-tech-test",
     "scripts": {
         "cypress:open": "cypress open --e2e",
-        "test": "cypress-tags run --e2e --glob 'cypress/integration/e2e/map-site/**/*.feature'"
+        "test": "cypress run --e2e 'cypress/integration/e2e/**/*.feature'"
     },
     "author": "what3words",
     "devDependencies": {
