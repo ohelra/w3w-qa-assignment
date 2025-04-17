@@ -11,7 +11,7 @@
 1. Create a branch
 2. Add your tests
 3. Create a Pull request
-4. add a comment stating it is ready to review once ready.
+4. Add a comment stating it is ready to review once ready.
 
 ### Pre-requisites
 
