@@ -1,4 +1,4 @@
-# Functional e2e tests
+# what3words QA tech test
 
 ### Test framework
 
