@@ -7,12 +7,6 @@
     language
 -   Tests follow design pattern of Page Object Model (POM)
 
-### Tech test:
-1. Create a branch from `main` branch
-2. Add your tests
-3. Create a Pull request
-4. Add a comment stating it is ready to review once ready.
-
 ### Pre-requisites
 
 -   Install node.js, npm and git in your machine.
